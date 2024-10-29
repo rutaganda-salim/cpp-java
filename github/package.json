@@ -1,0 +1,19 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "cool kid ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutaganda-salim/github-bot.git"
+  },
+  "author": "Salim Rutaganda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutaganda-salim/github-bot/issues"
+  },
+  "homepage": "https://github.com/rutaganda-salim/github-bot#readme"
+}
