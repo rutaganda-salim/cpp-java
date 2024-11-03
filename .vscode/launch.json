@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "javacat",
+      "request": "launch",
+      "mainClass": "javacat",
+      "projectName": "openai_d0ac28c4"
+    },
+    {
+      "type": "java",
       "name": "ReadFile",
       "request": "launch",
       "mainClass": "ReadFile",
